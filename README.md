@@ -23,3 +23,6 @@ git remote add origin https://github.com/S0XZ/py-code.git
 git branch -M main
 
 git push -u origin main
+
+
+### 没什么好看的
